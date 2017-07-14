@@ -2,7 +2,7 @@
   "name": "habibun.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://habibun.github.io/habibun.github.io",
+  "homepage": "https://habibun.github.io/habibun",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
