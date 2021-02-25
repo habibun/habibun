@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Habibun Noby</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/habibun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="habibun" height="30" width="40" /></a>
