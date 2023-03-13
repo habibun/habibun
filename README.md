@@ -1,3 +1,20 @@
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
+There is a land where I share toys and have a break.
+
+I'm currently learning building tools and AST.
+
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact&hide=css,html)
+
+![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=onedark)
+
+</details>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/2986944/habibun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="habibun" height="30" width="40" /></a>
