@@ -80,7 +80,7 @@ I'm currently learning building tools and AST.
 
 <details>	
   <br />
-	<summary><b>⚙️ Connect with me:</b></summary>
+	<summary><b>Connect with me:</b></summary>
 	
 [![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")  
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")  
