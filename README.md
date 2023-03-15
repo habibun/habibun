@@ -29,7 +29,7 @@ I'm currently learning building tools and AST.
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-195-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)
 
 
 ## 🏆 GitHub Trophies
