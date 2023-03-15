@@ -4,7 +4,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 <details>
 <summary>More about my coding life</summary>
-<br />
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact)
   <br />
