@@ -78,7 +78,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 <details>
-	<summary><strong>Connect with me:</strong></summary>
+	<summary><strong>Connect with me</strong></summary>
 	<br />
 	
 [![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")  
@@ -95,7 +95,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 <details>
-	<summary><strong>Languages and Tools:</strong></summary>
+	<summary><strong>Languages and Tools</strong></summary>
 <br />
 
 **Back-end**
