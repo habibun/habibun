@@ -3,6 +3,7 @@
 I'm Habibun Noby, a passionate software developer with experience in developing web applications using Symfony. 
 <br />
 
+<!--Start More about my coding life-->
 <details>
 <summary><strong>More about my coding life</strong></summary>
 <br />
@@ -18,14 +19,12 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibun&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>  
 <br />
 
-
-
   
 ![Habibun's github stats](https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=vue)
-  <br />
+ <br />
   
   
-  <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%2046%20mins-blue)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)
@@ -36,10 +35,12 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 ![](https://github-profile-trophy.vercel.app/?username=habibun&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 </details>
+<!--End More about my coding life-->
 
 
+<!--Start Find me around the web-->
 <details>
-  <summary><strong>Find me around the web </strong></summary>
+  <summary><strong>Find me around the web</strong></summary>
   <br />
 	
   <a href="https://habibun.me/"><img src="https://github.com/habibun/habibun/raw/master/etc/think.png" align="right" height="150" /></a>
@@ -54,11 +55,11 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 ----
 
 </details>
+<!--End Find me around the web-->
 
 
-
-<details>	
-
+<!--Start Things I use to get stuff done-->
+<details>
   <summary><strong>Things I use to get stuff done</strong></summary>
 	  <br />
   	<ul>
@@ -72,7 +73,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
-
+<!--End Things I use to get stuff done-->
 
 
 <!--Start Connect with me-->
@@ -88,8 +89,6 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 </details>
 <!--end connect with me-->
-
-
 
 
 <!--Start Languages and Tools-->
