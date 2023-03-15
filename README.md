@@ -3,7 +3,7 @@
 I'm Habibun Noby, a passionate software developer with experience in developing web applications using Symfony. I am also familiar with various front-end technologies like React, Vue.js, and Bootstrap.
 
 <details>
-<summary>More about my coding life</summary>
+<summary><strong>More about my coding life</strong></summary>
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact)
@@ -38,7 +38,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 <details>
-  <summary>Find me around the web </summary>
+  <summary><strong>Find me around the web </strong></summary>
   <br />
 	
   <a href="https://habibun.me/"><img src="https://github.com/habibun/habibun/raw/master/etc/think.png" align="right" height="150" /></a>
@@ -57,8 +57,9 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 <details>	
-  <br />
-  <summary><b>Things I use to get stuff done</b></summary>
+
+  <summary><strong>Things I use to get stuff done</strong></summary>
+	  <br />
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
@@ -77,7 +78,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 <details>
-	<summary><b>Connect with me:</b></summary>
+	<summary><strong>Connect with me:</strong></summary>
 	<br />
 	
 [![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")  
@@ -94,7 +95,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 <details>
-	<summary><b>Languages and Tools:</b></summary>
+	<summary><strong>Languages and Tools:</strong></summary>
 <br />
 
 **Back-end**
