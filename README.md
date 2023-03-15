@@ -9,9 +9,13 @@ I'm currently learning building tools and AST.
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact)
+  <br />
+  
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />  
-
+<br />
+  
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibun&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>  
 <br />
 
@@ -19,6 +23,13 @@ I'm currently learning building tools and AST.
 
   
 ![Habibun's github stats](https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=vue)
+  <br />
+  
+  
+  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%2046%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-195-blue)
 
 
 ## 🏆 GitHub Trophies
