@@ -74,13 +74,11 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 </details>
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-
-
+<!--Start Connect with me-->
 <details>
-	<summary><strong>Connect with me</strong></summary>
-	<br />
+<summary><strong>Connect with me</strong></summary>
+<br />
 	
 [![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")  
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")  
@@ -89,14 +87,14 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 
 </details>
+<!--end connect with me-->
 
 
 
 
-
-
+<!--Start Languages and Tools-->
 <details>
-	<summary><strong>Languages and Tools</strong></summary>
+<summary><strong>Languages and Tools</strong></summary>
 <br />
 
 **Back-end**
@@ -108,6 +106,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/go.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/elixir.png"></code>
 
+	
 **Front-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
@@ -115,12 +114,14 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 
+	
 **Databases**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/redis.png"></code>
 
+	
 **Cloud Servers**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>
@@ -133,10 +134,8 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/atom.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
 
-
-	
 </details>
-
+<!--End Languages and Tools-->
 
 [![Profile last updated](https://img.shields.io/github/last-commit/habibun/habibun/master?label=Last%20updated&style=flat)](https://github.com/habibun/habibun/commits)
 
