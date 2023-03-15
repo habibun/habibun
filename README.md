@@ -93,8 +93,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 
-<details>	
-  
+<details>
 	<summary><b>Languages and Tools:</b></summary>
 <br />
 
