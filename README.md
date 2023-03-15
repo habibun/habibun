@@ -10,7 +10,7 @@ I'm currently learning building tools and AST.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact&hide=css,html)
 
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=onedark)
+![Habibun's github stats](https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=vue)
 
 </details>
 
