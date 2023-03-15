@@ -58,7 +58,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
