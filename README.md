@@ -38,7 +38,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 <details>
-  <summary>Find me around the web :globe_with_meridians:</summary>
+  <summary>Find me around the web </summary>
   <br />
 	
   <a href="https://habibun.me/"><img src="https://github.com/habibun/habibun/raw/master/etc/think.png" align="right" height="150" /></a>
