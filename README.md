@@ -4,7 +4,7 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 <details>
 <summary>More about my coding life</summary>
-
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact)
   <br />
@@ -39,7 +39,8 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 <details>
   <summary>Find me around the web :globe_with_meridians:</summary>
-  
+  <br />
+	
   <a href="https://habibun.me/"><img src="https://github.com/habibun/habibun/raw/master/etc/think.png" align="right" height="150" /></a>
   
 [![DEV Badge](https://img.shields.io/badge/-habibun-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/habibun)
@@ -75,9 +76,9 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 
-<details>	
-  <br />
+<details>
 	<summary><b>Connect with me:</b></summary>
+	<br />
 	
 [![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")  
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")  
@@ -93,9 +94,9 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 
 
 <details>	
-  <br />
+  
 	<summary><b>Languages and Tools:</b></summary>
-
+<br />
 
 **Back-end**
 
