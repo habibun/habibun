@@ -38,63 +38,6 @@ I am passionate about exploring and learning new technologies and leveraging the
 
 [//]: # (<!--End More about my coding life-->)
 
-
-[//]: # (<!--Start Find me around the web-->)
-<details>
-  <summary><strong>Find me around the web</strong></summary>
-  <br />
-
-<a href="https://habibun.me/"><img src="https://github.com/habibun/habibun/raw/master/etc/think.png" align="right" height="150" /></a>
-
-[![DEV Badge](https://img.shields.io/badge/-habibun-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/habibun)
-[![StackOverflow Badge](https://img.shields.io/badge/-habibun-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/2986944/habibun?tab=profile)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/habibun/ "Follow on Instagram")
-[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/habibun)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/habibun/playlists "My YouTube playlists")
-[![Reddit Badge](https://img.shields.io/badge/-u/habibun-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/habibun/ "Find on Reddit")
-----
-
-</details>
-
-[//]: # (<!--End Find me around the web-->)
-
-
-[//]: # (<!--Start Things I use to get stuff done-->)
-<details>
-  <summary><strong>Things I use to get stuff done</strong></summary>
-	  <br />
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
-	</ul>	
-</details>
-
-[//]: # (<!--End Things I use to get stuff done-->)
-
-
-[//]: # (<!--Start Connect with me-->)
-<details>
-<summary><strong>Connect with me</strong></summary>
-<br />
-
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")  
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")  
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")  
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")  
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
-
-</details>
-
-[//]: # (<!--end connect with me-->)
-
-
 [//]: # (<!--Start Languages and Tools-->)
 <details>
 <summary><strong>Languages and Tools</strong></summary>
@@ -137,6 +80,62 @@ I am passionate about exploring and learning new technologies and leveraging the
 </details>
 
 [//]: # (<!--End Languages and Tools-->)
+
+
+[//]: # (<!--Start Find me around the web-->)
+<details>
+  <summary><strong>Find me around the web</strong></summary>
+  <br />
+
+<a href="https://habibun.me/"><img src="https://github.com/habibun/habibun/raw/master/etc/think.png" align="right" height="150" /></a>
+
+[![DEV Badge](https://img.shields.io/badge/-habibun-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/habibun)
+[![StackOverflow Badge](https://img.shields.io/badge/-habibun-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/2986944/habibun?tab=profile)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/habibun/ "Follow on Instagram")
+[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/habibun)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/habibun/playlists "My YouTube playlists")
+[![Reddit Badge](https://img.shields.io/badge/-u/habibun-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/habibun/ "Find on Reddit")
+----
+
+</details>
+
+[//]: # (<!--End Find me around the web-->)
+
+
+[//]: # (<!--Start Things I use to get stuff done-->)
+<details>
+  <summary><strong>Things I use to get stuff done</strong></summary>
+	  <br />
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 22.04</li>
+	    <li><b>Laptop: </b> Lenovo</li>
+  	    <li><b>Browser: </b> Google Chrome</li>
+	    <li><b>Terminal: </b> GNOME Terminal</li>
+	    <li><b>Code Editor:</b> PhpStorm</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+	⚛️ Checkout My PhpStorm Configurations <a href="https://github.com/habibun/phpstorm-settings">Here</a>.
+	</ul>	
+</details>
+
+[//]: # (<!--End Things I use to get stuff done-->)
+
+
+[//]: # (<!--Start Connect with me-->)
+<details>
+<summary><strong>Connect with me</strong></summary>
+<br />
+
+[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")  
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")  
+[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")  
+[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")  
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
+
+</details>
+
+[//]: # (<!--end connect with me-->)
 
 
 [![Profile last updated](https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat)](https://github.com/habibun/habibun/commits)
