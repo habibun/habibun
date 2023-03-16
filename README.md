@@ -6,7 +6,7 @@ In addition, I am also familiar with various front-end technologies like React, 
 
 I am passionate about exploring and learning new technologies and leveraging them to solve real-life problems :bulb:  
 
-[//]: # (<!--Start More about my coding life-->)
+[//]: # (<!--More about my coding life-->)
 <details>
 <summary><strong>More about my coding life</strong></summary>
 <br />
@@ -36,9 +36,8 @@ I am passionate about exploring and learning new technologies and leveraging the
 
 </details>
 
-[//]: # (<!--End More about my coding life-->)
 
-[//]: # (<!--Start Languages and Tools-->)
+[//]: # (<!--Languages and Tools-->)
 <details>
 <summary><strong>Languages and Tools</strong></summary>
 <br />
@@ -79,10 +78,8 @@ I am passionate about exploring and learning new technologies and leveraging the
 
 </details>
 
-[//]: # (<!--End Languages and Tools-->)
 
-
-[//]: # (<!--Start Find me around the web-->)
+[//]: # (<!--Find me around the web-->)
 <details>
   <summary><strong>Find me around the web</strong></summary>
   <br />
@@ -100,29 +97,23 @@ I am passionate about exploring and learning new technologies and leveraging the
 
 </details>
 
-[//]: # (<!--End Find me around the web-->)
 
-
-[//]: # (<!--Start Things I use to get stuff done-->)
+[//]: # (<!--Things I use to get stuff done-->)
 <details>
-  <summary><strong>Things I use to get stuff done</strong></summary>
-	  <br />
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 22.04</li>
-	    <li><b>Laptop: </b> Lenovo</li>
-  	    <li><b>Browser: </b> Google Chrome</li>
-	    <li><b>Terminal: </b> GNOME Terminal</li>
-	    <li><b>Code Editor:</b> PhpStorm</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	⚛️ Checkout My PhpStorm Configurations <a href="https://github.com/habibun/phpstorm-settings">Here</a>.
-	</ul>	
+<summary><strong>Things I use to get stuff done</strong></summary>
+<ul>
+    <li><b>OS:</b> Ubuntu 22.04</li>
+    <li><b>Laptop: </b> Lenovo</li>
+    <li><b>Browser: </b> Google Chrome</li>
+    <li><b>Terminal: </b> GNOME Terminal</li>
+    <li><b>Code Editor:</b> PhpStorm</li>
+    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter</li>
+</ul>	
+    :gear: Checkout My PhpStorm Configurations <a href="https://github.com/habibun/phpstorm-settings">Here</a>
 </details>
 
-[//]: # (<!--End Things I use to get stuff done-->)
 
-
-[//]: # (<!--Start Connect with me-->)
+[//]: # (<!--Connect with me-->)
 <details>
 <summary><strong>Connect with me</strong></summary>
 <br />
@@ -134,8 +125,6 @@ I am passionate about exploring and learning new technologies and leveraging the
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 
 </details>
-
-[//]: # (<!--end connect with me-->)
 
 
 [![Profile last updated](https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat)](https://github.com/habibun/habibun/commits)
