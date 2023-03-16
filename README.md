@@ -1,50 +1,52 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm Habibun Noby, a passionate software developer with experience in developing web applications using Symfony. 
+I am Habibun Noby, a software developer with a keen focus on backend development.
+My area of expertise lies primarily in working with Symfony.
+In addition, I am proficient in various front-end technologies.  
+
+I am passionate about exploring and learning new technologies and leveraging them to solve real-life problems.  
 <br />
 
-<!--Start More about my coding life-->
+[//]: # (<!--Start More about my coding life-->)
 <details>
 <summary><strong>More about my coding life</strong></summary>
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact)
-  <br />
-  
+<br />
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />  
 <br />
-  
-  
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibun&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>  
 <br />
 
-  
+
 ![Habibun's github stats](https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=vue)
- <br />
-  
-  
+<br />
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%2046%20mins-blue)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)
-
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=habibun&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 </details>
-<!--End More about my coding life-->
+
+[//]: # (<!--End More about my coding life-->)
 
 
-<!--Start Find me around the web-->
+[//]: # (<!--Start Find me around the web-->)
 <details>
   <summary><strong>Find me around the web</strong></summary>
   <br />
-	
-  <a href="https://habibun.me/"><img src="https://github.com/habibun/habibun/raw/master/etc/think.png" align="right" height="150" /></a>
-  
+
+<a href="https://habibun.me/"><img src="https://github.com/habibun/habibun/raw/master/etc/think.png" align="right" height="150" /></a>
+
 [![DEV Badge](https://img.shields.io/badge/-habibun-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/habibun)
 [![StackOverflow Badge](https://img.shields.io/badge/-habibun-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/2986944/habibun?tab=profile)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/habibun/ "Follow on Instagram")
@@ -55,10 +57,11 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 ----
 
 </details>
-<!--End Find me around the web-->
+
+[//]: # (<!--End Find me around the web-->)
 
 
-<!--Start Things I use to get stuff done-->
+[//]: # (<!--Start Things I use to get stuff done-->)
 <details>
   <summary><strong>Things I use to get stuff done</strong></summary>
 	  <br />
@@ -73,14 +76,15 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
-<!--End Things I use to get stuff done-->
+
+[//]: # (<!--End Things I use to get stuff done-->)
 
 
-<!--Start Connect with me-->
+[//]: # (<!--Start Connect with me-->)
 <details>
 <summary><strong>Connect with me</strong></summary>
 <br />
-	
+
 [![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")  
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")  
 [![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")  
@@ -88,10 +92,11 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 
 </details>
-<!--end connect with me-->
+
+[//]: # (<!--end connect with me-->)
 
 
-<!--Start Languages and Tools-->
+[//]: # (<!--Start Languages and Tools-->)
 <details>
 <summary><strong>Languages and Tools</strong></summary>
 <br />
@@ -105,7 +110,6 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/go.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/elixir.png"></code>
 
-	
 **Front-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
@@ -113,14 +117,12 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 
-	
 **Databases**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/redis.png"></code>
 
-	
 **Cloud Servers**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>
@@ -134,7 +136,9 @@ I'm Habibun Noby, a passionate software developer with experience in developing 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
 
 </details>
-<!--End Languages and Tools-->
 
-[![Profile last updated](https://img.shields.io/github/last-commit/habibun/habibun/master?label=Last%20updated&style=flat)](https://github.com/habibun/habibun/commits)
+[//]: # (<!--End Languages and Tools-->)
+
+
+[![Profile last updated](https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat)](https://github.com/habibun/habibun/commits)
 
