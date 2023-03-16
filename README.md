@@ -89,7 +89,7 @@ I am passionate about exploring and learning new technologies and leveraging the
 [![DEV Badge](https://img.shields.io/badge/-habibun-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/habibun)
 [![StackOverflow Badge](https://img.shields.io/badge/-habibun-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/2986944/habibun?tab=profile)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/HabibunNoby/ "Follow on Instagram")
-[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/habibun)
+[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/habibunnoby)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/habibun/playlists "My YouTube playlists")
 [![Reddit Badge](https://img.shields.io/badge/-u/habibun-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/habibun/ "Find on Reddit")
