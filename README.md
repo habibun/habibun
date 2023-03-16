@@ -108,8 +108,8 @@ I am passionate about exploring and learning new technologies and leveraging the
     <li><b>Terminal: </b> GNOME Terminal</li>
     <li><b>Code Editor:</b> PhpStorm</li>
     <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter</li>
-</ul>	
-    &nbsp; :gear: Checkout My PhpStorm Configurations <a href="https://github.com/habibun/phpstorm-settings">Here</a>
+</ul>
+&nbsp; &nbsp; :gear: Checkout My PhpStorm Configurations <a href="https://github.com/habibun/phpstorm-settings">Here</a>
 </details>
 
 
