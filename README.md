@@ -4,7 +4,7 @@ I am Habibun Noby, a software developer with a keen focus on backend development
 My area of expertise lies primarily in working with Symfony.
 In addition, I am also familiar with various front-end technologies like React, Vue.js, and Bootstrap.  
 
-I am passionate about exploring and learning new technologies and leveraging them to solve real-life problems :bulb:.  
+I am passionate about exploring and learning new technologies and leveraging them to solve real-life problems :bulb:  
 
 [//]: # (<!--Start More about my coding life-->)
 <details>
