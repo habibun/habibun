@@ -1,9 +1,9 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 I am Habibun Noby, a software developer with a keen focus on backend development.
-My area of expertise lies primarily in working with Symfony.
-In addition, I am also familiar with various front-end technologies like React, Vue.js, and Bootstrap.
-Moreover, I possess familiarity with diverse front-end technologies such as React, Bootstrap, and more.  
+My area of expertise lies primarily in working with **Symfony**.
+Moreover, I possess familiarity with diverse front-end technologies such as React, Bootstrap and more.  
+
 
 [//]: # (<!--More about my coding life-->)
 <details>
@@ -13,21 +13,11 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact)
 <br />
 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />  
-<br />
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibun&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>  
-<br />
-
-
 ![Habibun's github stats](https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=vue)
 <br />
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%2046%20mins-blue)
-
-![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibun" alt="Gift's LangStat" />  
+<br />
 
 ## 🏆 GitHub Trophies
 
@@ -118,5 +108,7 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 </details>
 
 
-[![Profile last updated](https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat)](https://github.com/habibun/habibun/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat&color=blue)](https://github.com/habibun/habibun/commits)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%2046%20mins-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)
 
