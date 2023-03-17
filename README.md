@@ -39,32 +39,32 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 
 [//]: # (<!--Languages and Tools-->)
 <details>
-<summary><strong>Languages and Tools</strong></summary>
-<br />
+<summary><strong>Languages and Tools</strong></summary>  
 
 **Back-end**  
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
 
 **Front-end**  
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Hypertext_markup_language.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 
-**Databases**
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/redis.png"></code>
+**Databases**  
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg"></code>
 
-**Cloud Servers**
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png"></code>
+**Cloud Servers**  
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg"></code>
+<code><img height="30" src="https://platform.sh/platform-logos/full/black/Platformsh_logo_black.png"></code>
 
 **Tools**
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/atom.png"></code>
+<code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"></code>
+<code><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
 
 </details>
