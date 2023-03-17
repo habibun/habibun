@@ -1,7 +1,7 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I am Habibun Noby, a software developer with a keen focus on backend development.
-My area of expertise lies primarily in working with **Symfony**.
+I am Habibun Noby, a software developer with a keen focus on backend development.  
+My area of expertise lies primarily in working with **Symfony**.  
 Moreover, I possess familiarity with diverse front-end technologies such as React, Bootstrap and more.  
 
 
@@ -22,6 +22,8 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=habibun&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
+---
 
 </details>
 
@@ -57,15 +59,15 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 <code><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
 
-<br/>
+---
 
 </details>
 
 
 [//]: # (<!--Find me around the web-->)
 <details>
-  <summary><strong>Find me around the web</strong></summary>
-  <br />
+<summary><strong>Find me around the web</strong></summary>
+<br />
 
 <a href="https://habibun.me/"><img src="https://github.com/habibun/habibun/raw/master/etc/think.png" align="right" height="150" /></a>
 
@@ -76,8 +78,8 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/aabwnuxg95e45w0kznnn08nq9 "My Spotify playlists")
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@habibun/playlists "My YouTube playlists")
 [![Reddit Badge](https://img.shields.io/badge/-u/habibun-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/HabibunNoby/ "Find on Reddit")
+
 ----
-<br/>
 
 </details>
 
@@ -94,6 +96,9 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
     <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter</li>
 </ul>
 &nbsp; &nbsp; :gear: Checkout My PhpStorm Configurations <a href="https://github.com/habibun/phpstorm-settings">Here</a>
+
+---
+
 </details>
 
 
@@ -102,11 +107,13 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 <summary><strong>Connect with me</strong></summary>
 <br />
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:habibun.noby@gmail.com "Connect via Email") 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/habibun/ "Connect on LinkedIn") 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/HabibunNoby "Contact on Telegram") 
-[![Twitter Badge](https://img.shields.io/badge/-@Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=HabibunNoby "Follow on Twitter") 
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/HabibunNoby "Connect on Facebook")  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:habibun.noby@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/habibun/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/HabibunNoby "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=HabibunNoby "Follow on Twitter")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/HabibunNoby "Connect on Facebook")
+
+---
 
 </details>
 
@@ -114,4 +121,3 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 [![Profile last updated](https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat&color=blue)](https://github.com/habibun/habibun/commits)
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%2046%20mins-blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)
-
