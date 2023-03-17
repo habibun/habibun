@@ -52,7 +52,7 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg"></code>
 <code><img height="30" src="https://platform.sh/platform-logos/full/white/Platformsh_logo_white.png"></code>
 
-**Tools**
+**Tools**  
 <code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"></code>
 <code><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
@@ -77,6 +77,7 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@habibun/playlists "My YouTube playlists")
 [![Reddit Badge](https://img.shields.io/badge/-u/habibun-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/HabibunNoby/ "Find on Reddit")
 ----
+<br/>
 
 </details>
 
