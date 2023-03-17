@@ -56,6 +56,7 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 <code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"></code>
 <code><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
+</br>
 
 </details>
 
