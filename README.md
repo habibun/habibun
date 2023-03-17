@@ -60,7 +60,7 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 **Cloud Servers**  
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg"></code>
-<code><img height="30" src="https://platform.sh/platform-logos/full/black/Platformsh_logo_black.png"></code>
+<code><img height="30" src="https://platform.sh/platform-logos/full/white/Platformsh_logo_white.png"></code>
 
 **Tools**
 <code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"></code>
