@@ -39,7 +39,8 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 
 [//]: # (<!--Languages and Tools-->)
 <details>
-<summary><strong>Languages and Tools</strong></summary>  
+<summary><strong>Languages and Tools</strong></summary>
+<br/>
 
 **Back-end**  
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
