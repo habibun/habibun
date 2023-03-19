@@ -24,7 +24,6 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 ![](https://github-profile-trophy.vercel.app/?username=habibun&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ##
-
 </details>
 
 
@@ -60,7 +59,6 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
 
 ##
-
 </details>
 
 
@@ -80,7 +78,6 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 [![Reddit Badge](https://img.shields.io/badge/-u/habibun-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/HabibunNoby/ "Find on Reddit")
 
 ##
-
 </details>
 
 
@@ -98,7 +95,6 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 &nbsp; &nbsp; :gear: Checkout My PhpStorm Configurations <a href="https://github.com/habibun/phpstorm-settings">Here</a>
 
 ##
-
 </details>
 
 
@@ -114,12 +110,10 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/HabibunNoby "Connect on Facebook")
 
 ##
-
 </details>
 
 
 [![Profile last updated](https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat&color=blue)](https://github.com/habibun/habibun/commits)
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%2046%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/758dffa4-ed02-4160-82f0-b8699f55f1c8.svg)](https://wakatime.com/@758dffa4-ed02-4160-82f0-b8699f55f1c8)
 ![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)
-
 
