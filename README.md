@@ -2,6 +2,7 @@
 
 I am a software developer with a keen focus on backend development.My area of expertise lies primarily in working with **Symfony**.  
 Moreover, I possess familiarity with diverse front-end technologies such as React, Bootstrap and more.  
+<br/>
 
 
 [//]: # (<!--More about my coding life-->)
