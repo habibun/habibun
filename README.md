@@ -117,3 +117,7 @@ Moreover, I possess familiarity with diverse front-end technologies such as Reac
 [![wakatime](https://wakatime.com/badge/user/758dffa4-ed02-4160-82f0-b8699f55f1c8.svg)](https://wakatime.com/@758dffa4-ed02-4160-82f0-b8699f55f1c8)
 ![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)
 
+---
+> # 🇵🇸 FREE PALESTINE!
+> Israel is killing tens of thousands of Palestinian civilians and displacing millions more. **It's a genocide**. Please help defend their freedom and Palestine's right to exist.
+
