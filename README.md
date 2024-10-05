@@ -1,7 +1,7 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I am a software developer with a keen focus on backend development.My area of expertise lies primarily in working with **Symfony**.  
-Moreover, I possess familiarity with diverse front-end technologies such as React, Bootstrap and more.  
+I am a software developer specializing in backend development, with a strong focus on Symfony.
+Additionally, I have experience working with various front-end technologies, including React, Bootstrap, and Tailwind CSS. 
 <br/>
 
 
