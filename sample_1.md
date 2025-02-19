@@ -49,17 +49,22 @@ I'm **Habibun**, a passionate software developer specializing in **backend devel
 
 ---
 
-### 📊 GitHub Stats
+<details>
+  <summary><strong>📊 GitHub Stats</strong></summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact&theme=vue)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habibun&theme=vue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habibun&theme=dark)
+</details>
 
 ---
 
-### 🏆 GitHub Trophies
+<details>
+  <summary><strong>🏆 GitHub Trophies</strong></summary>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=habibun&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+</details>
+
 
 ---
 
@@ -72,17 +77,18 @@ I'm **Habibun**, a passionate software developer specializing in **backend devel
 
 ---
 
-### 🛠 Tools I Use Daily
+<details>
+<summary>🚀 My Development Setup</summary>
 
 - **OS**: Ubuntu
-- **Browser**: Google Chrome
 - **Terminal**: GNOME Terminal
+- **Browser**: Google Chrome
 - **IDEs**: PhpStorm, DataGrip
 - **Stay Updated**: Dev.to, Medium, LinkedIn, X, GitHub
 
 🚀 Check out my **[PhpStorm Configurations](https://github.com/habibun/phpstorm-settings)**  
 🚀 Check out my **[DataGrip Configurations](https://github.com/habibun/datagrip-settings)**  
-
+</details>
 
 ---
 

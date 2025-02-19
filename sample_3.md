@@ -32,18 +32,7 @@ Passionate about crafting robust backend systems with Symfony while embracing mo
 ![DataGrip](https://img.shields.io/badge/DataGrip-000?logo=datagrip&logoColor=fff&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
 
----
 
-### 📈 Coding Traction
-
-<div align="center">
-
-[![GitHub Mastery](https://github-readme-stats.vercel.app/api?username=habibun&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)](https://github.com/habibun)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/habibun)
-
-![Achievement Unlocked](https://github-profile-trophy.vercel.app/?username=habibun&theme=onedark&no-bg=true&margin-w=15&row=2&column=4)
-
-</div>
 
 ---
 
@@ -62,19 +51,6 @@ Passionate about crafting robust backend systems with Symfony while embracing mo
 - **React Hooks** patterns exploration
 - **Database Sharding** techniques
 
----
-
-### 💡 Pro Tips
-
-<details>
-<summary>🚀 My Development Setup</summary>
-
-- **Daily Driver**: Ubuntu LTS + GNOME
-- **Terminal Supercharged**: Zsh + Oh My Zsh
-- **IDE Magic**: [PhpStorm Configs](https://github.com/habibun/phpstorm-settings)
-- **Database Wizardry**: [DataGrip Presets](https://github.com/habibun/datagrip-settings)
-
-</details>
 
 ---
 
@@ -83,6 +59,3 @@ Passionate about crafting robust backend systems with Symfony while embracing mo
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=habibun&layout=compact&theme=vue-dark&hide_border=true)](https://wakatime.com/@habibun)
 
 ---
-
-[![Visitors](https://komarev.com/ghpvc/?username=habibun&label=Profile%20Views&color=blueviolet)](https://github.com/habibun)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-brightgreen)](https://github.com/habibun)

@@ -45,23 +45,7 @@ I'm **Habibun**, a passionate software developer specializing in **backend devel
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=vue" alt="Habibun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact&theme=vue" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibun&theme=vue" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habibun&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ### 🌍 Find Me Online
 
@@ -82,29 +66,3 @@ I'm **Habibun**, a passionate software developer specializing in **backend devel
 
 ---
 
-### 🛠 Tools I Use Daily
-
-- **OS**: Ubuntu
-- **Browser**: Google Chrome
-- **Terminal**: GNOME Terminal
-- **IDEs**: PhpStorm, DataGrip
-- **Stay Updated**: Dev.to, Medium, LinkedIn, X, GitHub
-
-<div align="center">
-  🚀 Check out my <a href="https://github.com/habibun/phpstorm-settings"><strong>PhpStorm Configurations</strong></a>  
-  🚀 Check out my <a href="https://github.com/habibun/datagrip-settings"><strong>DataGrip Configurations</strong></a>
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/habibun">
-    <img src="https://komarev.com/ghpvc/?username=habibun&color=blue" alt="Profile Views" />
-  </a>
-  <a href="https://wakatime.com/@758dffa4-ed02-4160-82f0-b8699f55f1c8">
-    <img src="https://wakatime.com/badge/user/758dffa4-ed02-4160-82f0-b8699f55f1c8.svg" alt="WakaTime" />
-  </a>
-  <a href="https://github.com/habibun/habibun/commits">
-    <img src="https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat&color=blue" alt="Last Updated" />
-  </a>
-</div>

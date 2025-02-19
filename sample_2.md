@@ -26,23 +26,6 @@ Hey there! I'm **Habibun**, a results-driven **Symfony Developer** with expertis
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibun&count_private=true&show_icons=true&theme=vue" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibun&layout=compact&theme=vue" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibun&theme=vue" width="48%"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habibun&theme=discord&no-frame=true&no-bg=false&margin-w=4"/>
-</div>
-
----
 
 ### 🌍 Find Me Online
 
