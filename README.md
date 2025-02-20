@@ -24,7 +24,7 @@ I thrive in Agile environments, leveraging automation and infrastructure as code
 <details>
     <summary><strong>📊 WakaTime Stats</strong></summary>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=habibun&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=habibun&theme=dark&layout=compact)](https://wakatime.com/@habibun)
 </details>
 
 
