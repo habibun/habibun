@@ -16,7 +16,7 @@ I thrive in Agile environments, leveraging automation and infrastructure as code
 - 💬 `Ping` me about **Thinking**, **Ubuntu**, **Symfony**, **MySQL**, **Nginx**
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 📫 How to reach me:
-  **[Stack Overflow](https://stackoverflow.com/users/2986944/habibun), [GitLab](http://gitlab.eoninfosys.com/habibun), [LinkedIn](https://www.linkedin.com/in/habibun), [X](https://x.com/HabibunNoby)**  
+  **[GitLab](http://gitlab.eoninfosys.com/habibun), [Stack Overflow](https://stackoverflow.com/users/2986944/habibun), [LinkedIn](https://www.linkedin.com/in/habibun), [X](https://x.com/HabibunNoby), [Gmail](mailto:habibun.noby@gmail.com)** 
 
 ---
 
