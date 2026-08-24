@@ -17,14 +17,6 @@ I work effectively in **Agile environments**, with a focus on **automation, CI/C
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 📫 How to reach me:  **[GitLab](http://gitlab.eoninfosys.com/habibun), [Stack Overflow](https://stackoverflow.com/users/2986944/habibun), [LinkedIn](https://www.linkedin.com/in/habibun), [X](https://x.com/HabibunNoby), [Gmail](mailto:habibun.noby@gmail.com)**
 
----
-
-<details>
-  <summary><strong>📊 WakaTime Stats</strong></summary>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=habibun&theme=dark&layout=compact)](https://wakatime.com/@habibun)
-
-</details>
 
 ---
 
@@ -49,6 +41,5 @@ I work effectively in **Agile environments**, with a focus on **automation, CI/C
 ---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)](https://github.com/habibun)
-[![WakaTime](https://wakatime.com/badge/user/758dffa4-ed02-4160-82f0-b8699f55f1c8.svg)](https://wakatime.com/@758dffa4-ed02-4160-82f0-b8699f55f1c8)
 [![Last Updated](https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat&color=blue)](https://github.com/habibun/habibun/commits)
 ```
