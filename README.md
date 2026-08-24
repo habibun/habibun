@@ -8,7 +8,7 @@ My journey revolves around full-stack Symfony development and DevOps best practi
 🛠️ My core stack includes **PHP, Symfony, Doctrine ORM, PostgreSQL, MySQL, MongoDB, Docker, Ubuntu, Nginx, REST APIs, and Tailwind CSS**.
 I work effectively in **Agile environments**, with a focus on **automation, CI/CD, and infrastructure as code (IaC)** to improve delivery and reliability.
 
-- 🔭 I’m currently working as **Senior Programmer @eoninfosys.net**
+- 🔭 I’m currently working as **Team Leader @eoninfosys.net**
 - ⚙️ I use daily: **Ubuntu**, **Terminal**, **PhpStorm**, **DataGrip**, **Docker**, **Google Chrome**
 - 🌱 🌱 Currently exploring **AI for software development**
 - 🌍 I'm mostly active within the **Symfony Community**
