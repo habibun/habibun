@@ -42,5 +42,3 @@ I work effectively in **Agile environments**, with a focus on **automation, CI/C
 
 [![Profile Views](https://komarev.com/ghpvc/?username=habibun&color=blue)](https://github.com/habibun)
 [![Last Updated](https://img.shields.io/github/last-commit/habibun/habibun/main?label=Last%20updated&style=flat&color=blue)](https://github.com/habibun/habibun/commits)
-
-```
