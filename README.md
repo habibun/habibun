@@ -15,8 +15,7 @@ I work effectively in **Agile environments**, with a focus on **automation, CI/C
 - 📢 I follow: **TLDR**, **Dev.to**, **Medium**, **LinkedIn**, **X**, **GitHub**
 - 💬 `Ping` me about **Software Architecture**, **Symfony**, **PHP**, **Ubuntu**, **Docker**
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-- 📫 How to reach me:  
-  **[GitLab](http://gitlab.eoninfosys.com/habibun), [Stack Overflow](https://stackoverflow.com/users/2986944/habibun), [LinkedIn](https://www.linkedin.com/in/habibun), [X](https://x.com/HabibunNoby), [Gmail](mailto:habibun.noby@gmail.com)**
+- 📫 How to reach me:  **[GitLab](http://gitlab.eoninfosys.com/habibun), [Stack Overflow](https://stackoverflow.com/users/2986944/habibun), [LinkedIn](https://www.linkedin.com/in/habibun), [X](https://x.com/HabibunNoby), [Gmail](mailto:habibun.noby@gmail.com)**
 
 ---
 
