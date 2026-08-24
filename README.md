@@ -1,18 +1,18 @@
 
 ## Hi there! 👋 I'm Habibun Noby
-🚀 With 8+ years of experience, I've honed my skills in building scalable and secure enterprise applications.
+🚀 With 10+ years of experience, I've honed my skills in building scalable and secure enterprise applications.
 My journey revolves around full-stack Symfony development and DevOps best practices, ensuring robust and efficient solutions adapted to business needs.  
 
 🧠 With a problem-solving mindset, I break down complex challenges into clear, actionable solutions, bridging the gap between development, operations, and business objectives.  
 
-🛠️ My tech stack includes **Symfony**, PHP, Twig, HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, jQuery, React, **MySQL**, MariaDB, PostgreSQL, MongoDB, AWS, DigitalOcean, Google Cloud, Platform.sh, **Ubuntu**, **Nginx**, and Docker.
-I thrive in Agile environments, leveraging automation and infrastructure as code (IaC) to drive efficiency.
+🛠️ My core stack includes **PHP, Symfony, Doctrine ORM, PostgreSQL, MySQL, MongoDB, Docker, Ubuntu, Nginx, REST APIs, and Tailwind CSS**.
+I work effectively in **Agile environments**, with a focus on **automation, CI/CD, and infrastructure as code (IaC)** to improve delivery and reliability.
 
 - 🔭 I’m currently working as **Senior Programmer @eoninfosys.net**
 - ⚙️ I use daily: **Ubuntu**, **Terminal**, **PhpStorm**, **DataGrip**, **Docker**, **Google Chrome**
-- 🌱 I’m currently learning **DevOps**
+- 🌱 🌱 Currently exploring **AI for software development**
 - 🌍 I'm mostly active within the **Symfony Community**
-- 📢 Stay Updated: **Dev.to**, **Medium**, **LinkedIn**, **X**, **GitHub**
+- 📢 Stay Updated: **TLDR**, **Dev.to**, **Medium**, **LinkedIn**, **X**, **GitHub**
 - 💬 `Ping` me about **Thinking**, **Ubuntu**, **Symfony**, **MySQL**, **Nginx**
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 📫 How to reach me:
